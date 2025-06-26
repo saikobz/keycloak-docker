@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+.git
+.gitignore
+node_modules
+venv
+__pycache__
+*.pyc
